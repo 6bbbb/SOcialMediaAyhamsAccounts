@@ -190,7 +190,7 @@ body {
 
     transform: translate(-50%, -50%) scale(1.2);
 }
-@media screen and (max-width:800px){
+@media screen and (max-width:900px){
     .avatar {
         position: absolute;
         top: 31.5%;
